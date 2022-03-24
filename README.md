@@ -34,7 +34,7 @@
 <img src='https://user-images.githubusercontent.com/53803882/104344874-07fa2000-5541-11eb-9f49-2654c533aa93.png' width='200px'/>
 
 ## [ System Architecture ]
-<img width="1956" alt="iShot2021-02-22 00 33 03" src="https://user-images.githubusercontent.com/48714900/159917577-8d6cd7cb-121e-48f0-aba7-fea14debf49b.png">
+<img width="1500" alt="iShot2021-02-22 00 33 03" src="https://user-images.githubusercontent.com/48714900/159917577-8d6cd7cb-121e-48f0-aba7-fea14debf49b.png">
 
 ## [ Develop Environment ]
 #### FrontEnd
