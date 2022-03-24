@@ -38,13 +38,10 @@
 
 ## [ Develop Environment ]
 #### FrontEnd
-- Web : React.js
-- Android : Java, Kotlin
+- Android : Java
 
 #### Server
 - API Server : Node.js(express)
-- Hosting : AWS EC2
-- Database : AWS RDS(Maria)
-- Container : Docker
-- CI/CD : Jenkins
-- Reverse Proxy : NginX
+
+#### object detection algorithm
+- Yolo
