@@ -3,6 +3,7 @@
 ![1-2_512](https://user-images.githubusercontent.com/48714900/159917157-362a33cd-dbe1-433c-9c23-d46e8863c763.png)
 
 ## [ About ]
+카메라로 음식 재료를 찍으면 미리 학습된 yolo model을 통해서 해당 재료를 인식해 냅니다. 그리고 이 값을 서버에 보내 적절한 레시피를 받아오는 서비스입니다.
 
 ## [ Service ]
 
