@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/recommendation"
+        android:id="@+id/bottomNavigationRecommendationMenuId"
+        android:icon="@drawable/recommendation"
+        />
+
+    <item
+        android:title="@string/mine"
+        android:id="@+id/bottomNavigationMineMenuId"
+        android:icon="@drawable/mine"/>
+    <item
+        android:title="@string/refrigerator"
+        android:id="@+id/bottomNavigationRefrigeratorMenuId"
+        android:icon="@drawable/refrigerator"/>
+    <item
+        android:title="@string/board"
+        android:id="@+id/bottomNavigationBoardMenuId"
+        android:icon="@drawable/board"/>
+</menu>

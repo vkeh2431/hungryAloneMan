@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CameraExample</string>
+    <string name="recommendation">추천 레시피</string>
+    <string name="mine">나의 레시피</string>
+    <string name="refrigerator">나의 냉장고</string>
+    <string name="board">게시판</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="CommingSoon">Comming Soon!!</string>
+    <string name="StringValue">카메라 버튼이 생기지 않습니다.</string>
+    <string name="재료추가">재료 추가</string>
+    <string name="재촬영">재촬영</string>
+    <string name="레시피추천">레시피 추천</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
