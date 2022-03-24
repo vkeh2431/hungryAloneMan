@@ -1,6 +1,6 @@
 # 출출한 자취생
 
-![1-2_512](https://user-images.githubusercontent.com/53803882/104343381-37a82880-553f-11eb-8acd-2f874fa70995.png)
+![1-2_512](https://user-images.githubusercontent.com/48714900/159916959-4c46778c-9526-4e88-bd53-b9803b5f130a.png)
 
 ## [ Service ]
 
